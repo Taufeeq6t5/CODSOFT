@@ -69,7 +69,6 @@ public class NumberGame {
                     System.out.println("Invalid input! Please enter only 'yes' or 'no'.");
                 }
             }
-
             if (playAgain.equalsIgnoreCase("no")) {
                 break;
             }

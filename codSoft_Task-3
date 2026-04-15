@@ -87,7 +87,6 @@ public class ATMInterface {
 
         ATM atm = new ATM(userAccount);
 
-        // Start ATM interface
         atm.showMenu();
     }
 }
